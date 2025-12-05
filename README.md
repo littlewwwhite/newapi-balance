@@ -23,8 +23,8 @@
 3. 填写以下信息：
    - **配置名称**：自定义名称，用于多账户区分
    - **供应商地址**：NewAPI 服务地址（如 `https://api.example.com`）
-   - **Access Token**：API 访问令牌
-   - **User ID**：用户 ID
+   - **Access Token**：API 访问令牌，从 newapi 的中转站的个人设置，安全设置里获得
+   - **User ID**：用户 ID，从 newapi 的中转站的个人设置里获得
 4. 全部填写后点击"保存配置"
 
 ### 日常使用
