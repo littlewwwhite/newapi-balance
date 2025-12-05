@@ -39,7 +39,9 @@
 
 ## 安装
 
-在 VS Code / Cursor 扩展市场搜索 `NewAPI Balances` 安装，或通过命令行：
+（推荐）在 VS Code / Cursor 扩展市场搜索 `NewAPI Balances` 安装，
+
+或通过命令行：
 
 ```bash
 code --install-extension zjding.newapi-balances
