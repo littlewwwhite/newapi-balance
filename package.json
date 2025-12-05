@@ -2,9 +2,13 @@
   "name": "newapi-balances",
   "displayName": "NewAPI Balances",
   "description": "NewAPI balances status extension",
-  "version": "0.3.3",
+  "version": "0.1.0",
   "license": "MIT",
   "publisher": "eigeen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlewwwhite/newapi-balance.git"
+  },
   "engines": {
     "vscode": "^1.95.0"
   },
