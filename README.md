@@ -1,10 +1,12 @@
 # NewAPI Balances
 
 由于本人经常会想查看 NewAPI 账户余额，且现在的中转站大部分都是基于 NewAPI 的模式， 所以想写一个插件来方便的查看余额，且支持多账户切换。
-在 VS Code 状态栏实时显示分钟级 NewAPI 账户余额，支持多账户切换和余额预警，借鉴了 cc-switch 和 88code 的余额查询。
+在 VS Code Cursor状态栏实时显示分钟级 NewAPI 账户余额，支持多账户切换和余额预警，借鉴了 cc-switch 和 88code 的余额查询。
 
 ## 教程
-这里基于宙斯佬的 packycode 进行演示；
+先下载项目页面右侧的 release 中的 newapi-balances-0.1.vsix 文件，并拖动到 VS Code 或者 Cursor 中安装。
+
+接下来就可以开始配置了，这里基于宙斯佬的 packycode 进行演示；
 
 第一步：先获取你的信息
 ![1764914623195](image/README/1764914623195.png)
